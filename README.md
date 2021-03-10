@@ -9,7 +9,8 @@ Collect objective chips to win.
 2. Added physics to some objects so the cats can shove them around
 
 ## Billboard with textures: 
-1. Cat clipboard in the beginning of the scene
+1. Win/lose message at the end of the game
+2. Cat clipboard in the beginning of the scene (please check the script for this. Not sure why it isn't working)
 
 ## Lights:
 1. Yellow spotlights on every objective chip
