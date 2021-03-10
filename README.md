@@ -1,3 +1,25 @@
-# Network-Tutorial
- 
-Our game is multiplayer, where our game is objective based/Escape. The interaction of our game was cooperative play since players have to work together and find the chips. The overall setting of the game is that you are humans transformed into cats and you must find the CPU chips in order to turn back human! Procedure of the game was WASD to move, Space to jump. The Where of the procedure was inside of the IT Room, the when of the procedure was the 2 minute timer set. We followed the game theme with how CPU's are related to the computer architecture and we also had a 2nd puzzle that made the player think about computer architecture in order to solve (putting the image together). The game is a blast I couldn't stop playing it and I learned so much about computer architecture. 
+# Cats escape room
+
+Design:
+Two humans turned into cats by the crazy cat lady in the office try to escape.
+Collect objective chips to win.
+
+## Physics constructs:
+1. Added a particle effect when a chip is collected
+2. Added physics to some objects so the cats can shove them around
+
+## Billboard with textures: 
+1. Cat clipboard in the beginning of the scene
+
+## Lights:
+1. Yellow spotlights on every objective chip
+2. Blue lghts emiting from some of the computer screens
+3. Directional lighting for the whole game- green hues to represent office theme
+
+## Sounds:
+1. Sound played when objective chip is collected
+2. Win sound played when all chips have been collected
+3. Collision sound when objects are pushed to the ground
+4. Background electronic static sounds
+
+All these new elements add to the feeling of the game. It fits into the whole alone in the office atmosphere.
