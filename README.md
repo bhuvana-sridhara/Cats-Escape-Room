@@ -10,7 +10,7 @@ Collect objective chips to win.
 
 ## Billboard with textures: 
 1. Win/lose message at the end of the game
-2. Cat clipboard in the beginning of the scene (please check the script for this. Not sure why it isn't working)
+2. Cat image in front of clipboard (not the one on the clipboard)
 
 ## Lights:
 1. Yellow spotlights on every objective chip
